@@ -1,0 +1,22 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "online chat room practice using socket.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H2O-2/ChatRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H2O-2/ChatRoom/issues"
+  },
+  "homepage": "https://github.com/H2O-2/ChatRoom#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
