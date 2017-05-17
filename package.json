@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/H2O-2/ChatRoom#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "jquery": "^3.2.1"
   }
 }
